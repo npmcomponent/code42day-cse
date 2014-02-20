@@ -1,4 +1,4 @@
-var load = require('load');
+var load = require('code42day-load');
 
 /*global google */
 
